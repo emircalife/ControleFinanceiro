@@ -1,2 +1,2 @@
 # MinhasFinancas
-Sistema React.JS e Spring boot
+Sistema de controle financeiro pessoal criado com React.JS e Spring boot
